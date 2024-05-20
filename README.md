@@ -9,7 +9,7 @@ Jogo da cobrinha desenvolvido para ampliar as praticas em relação a programaç
 
 ### Preparando o ambiente
 
- - Ter algum aplicativo que rode o codigo tipo VSCODE ou PYCHARM
+ - Ter alguma IDE exemplos [VSCODE](https://code.visualstudio.com/Download) ou [PYCHARM](https://www.jetbrains.com/pycharm/download/?section=windows)
  - Baixar as bibliotecas:
    
   Pygame:
