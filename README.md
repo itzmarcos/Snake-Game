@@ -2,7 +2,7 @@
 
 Jogo da cobrinha desenvolvido para ampliar as praticas em relação a programação em Python.
 
-### Pre-requisito
+### Pré-requisito
 
 - [Instalar o Python](https://www.python.org/downloads/)
 
