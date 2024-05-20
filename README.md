@@ -21,3 +21,7 @@ Jogo da cobrinha desenvolvido para ampliar as praticas em relação a programaç
   ```
   pip install random
 ```
+### Comportamento esperado
+Ao roda o projeto uma nova tela se abrira e nela iniciara o jogo
+
+![Screenshot_6](https://github.com/itzmarcos/Snake-Game/assets/100073108/2bbc8082-9b72-468c-884b-42941e821e2d)
