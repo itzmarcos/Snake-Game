@@ -2,10 +2,12 @@
 
 Jogo da cobrinha desenvolvido para ampliar as praticas em relação a programação em Python.
 
+### Pre-requisito
+
+- [Instalar o Python](https://www.python.org/downloads/)
 
 
-
-### Requisitos
+### Preparando o ambiente
 
  - Ter algum aplicativo que rode o codigo tipo VSCODE ou PYCHARM
  - Baixar as bibliotecas:
