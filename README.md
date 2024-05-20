@@ -15,4 +15,7 @@ Jogo da cobrinha desenvolvido para ampliar as praticas em relação a programaç
   pip install pygame
 ```
   
-  Random: ```pip install random```
+  Random: 
+  ```
+  pip install random
+```
